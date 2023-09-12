@@ -1,3 +1,4 @@
 # Data-science
-Trying some code
+Overview of Assignments
 - Assignment 1
+    - Mean, variance , bowley's skew coefficient , Coupon Collector , Probability Measure , Inclusivity-Exclusivity Principle
